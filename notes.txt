@@ -1,0 +1,40 @@
+Why git?
+
+    - Version Control System
+
+    - Collaborator with other programmers:
+
+        - using other people's code, open source software
+
+        - in your teams, hobby projects, to work projects
+
+            - "live coding" code merging tool
+
+            - being the rookie on the team, and getting your bearings, and ultimately contributing to the codebase. 
+
+        
+        key utility
+        - getting other people's code
+        - contributing your own code 
+
+
+    Commands:
+
+        git status - 
+
+            - takes no actions; never hurts to run it!
+
+        git init -
+
+            - only run once at beginning 
+            - creates a new git repo locally
+    
+    terms
+    =============
+
+        respository
+
+            - local 
+            - remote
+
+            
